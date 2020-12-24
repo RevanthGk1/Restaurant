@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5fe3808e939ce21f16eb52b1"
+  },
+  "Dish_id": 1,
+  "Name": "Fried Chicken",
+  "Desc": "Deep fried chicken with some spices",
+  "Price": 19.99,
+  "Category": "Starter",
+  "AvailableFor": [
+    "Lunch",
+    "Dinner",
+    "WeekDays",
+    "Weekends"
+  ],
+  "Active": true,
+  "WaitingTime": 20
+},{
+  "_id": {
+    "$oid": "5fe3814e939ce21f16eb52b2"
+  },
+  "Dish_id": 2,
+  "Name": "Bratwurst",
+  "Desc": "Grilled sauasage with special sauce",
+  "Price": 10.99,
+  "Category": "Snack",
+  "AvailableFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Weekends"
+  ],
+  "Active": true,
+  "WaitingTime": 10
+},{
+  "_id": {
+    "$oid": "5fe381a9939ce21f16eb52b3"
+  },
+  "Dish_id": 3,
+  "Name": "Pommes",
+  "Desc": "French Fries",
+  "Price": 5.99,
+  "Category": "Snack",
+  "AvailableFor": [
+    "Lunch",
+    "Dinner",
+    "Weekends"
+  ],
+  "Active": true,
+  "WaitingTime": 10
+},{
+  "_id": {
+    "$oid": "5fe3826c939ce21f16eb52b4"
+  },
+  "Dish_id": 4,
+  "Name": "Chocolate Crepe",
+  "Desc": "Sweet roll",
+  "Price": 4.99,
+  "Category": "Desert",
+  "AvailableFor": [
+    "Lunch",
+    "Dinner",
+    "Weekdays"
+  ],
+  "Active": false,
+  "WaitingTime": 10
+},{
+  "_id": {
+    "$oid": "5fe382d4939ce21f16eb52b5"
+  },
+  "Dish_id": 5,
+  "Name": "Mezzo Mix",
+  "Desc": "Cola flavoured drink",
+  "Price": 2,
+  "Category": "Beverage",
+  "AvailableFor": [
+    "Lunch",
+    "Dinner",
+    "Weekdays",
+    "Weekends"
+  ],
+  "Active": true,
+  "WaitingTime": 5
+},{
+  "_id": {
+    "$oid": "5fe3835d939ce21f16eb52b6"
+  },
+  "Dish_id": 6,
+  "Name": "Rice",
+  "Desc": "Steamed Basmati rice",
+  "Price": 2.5,
+  "Category": "Main Course",
+  "AvailableFor": [
+    "Lunch",
+    "Dinner",
+    "Weekdays",
+    "Weekends"
+  ],
+  "Active": true,
+  "WaitingTime": 5
+}]
